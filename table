@@ -1,0 +1,15 @@
+<a href="https://blog.naver.com/coguri_march/223169647381" target="_blank" title="표 만드는 방법">표 만들기 연습</a>
+<table border="1">
+    <tr>
+        <td>nike</td>
+        <td>90%</td>
+    </tr>
+    <tr>
+        <td>adidas</td>
+        <td>80%</td>
+    </tr>
+    <tr>
+        <td>stusy</td>
+        <td>85%</td>
+    </tr>
+</table>
